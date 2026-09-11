@@ -1,4 +1,4 @@
-// ===== 1. API KEY (Safe: browser లో మాత్రమే) =====
+
 let API_KEY = localStorage.getItem("jarvis_key");
 
 if (!API_KEY) {
